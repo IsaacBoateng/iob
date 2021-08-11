@@ -1,5 +1,5 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+I am Isaac Owusu Boateng, a remote Android Engineer.
 I am a self-driven Android Kotlin Programmer. I love to code and review code for fun.
 - 📫 How to reach me: kace029@gmail.com
 
