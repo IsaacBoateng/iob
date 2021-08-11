@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-You can use the [editor on GitHub](https://github.com/IzacLLd/IzacLLd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a self-driven Android Kotlin Programmer. I love to code and review code for fun.
+- 📫 How to reach me: kace029@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## &#x1f4c8; GitHub Stats
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<a href="https://github.com/Isaacoboateng/iob">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isaacoboateng&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
+</a>
 
-# Header 1
-## Header 2
-### Header 3
+<!-- links to your social media accounts -->
 
-- Bulleted
-- List
+[1]: https://github.com/Isaacoboateng/
+[2]: https://www.linkedin.com/in/isaac-boateng-6305461a0/
 
-1. Numbered
-2. List
+<!-- links to social media icons -->
 
-**Bold** and _Italic_ and `Code` text
+<!-- icons with padding -->
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-[Link](url) and ![Image](src)
-```
+<!-- icons without padding -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IzacLLd/IzacLLd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
